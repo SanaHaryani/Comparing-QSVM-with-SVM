@@ -52,6 +52,6 @@ Observations
 
 How to Run
 
-1. Install dependencies:
+Install dependencies:
 
 pip install qiskit qiskit-machine-learning scikit-learn

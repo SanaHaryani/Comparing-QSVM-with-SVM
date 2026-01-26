@@ -1,4 +1,4 @@
-# QSVM_vs_SVM_Iris
+# QSVM_vs_SVM
 
 Comparison of classical SVM and Quantum SVM using Iris dataset.
 
